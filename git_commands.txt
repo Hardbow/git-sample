@@ -1,0 +1,7 @@
+git log
+git log --pretty=oneline
+git log --pretty=oneline --max-count=3
+git log --pretty=oneline --all
+git log --pretty=oneline --author="Eugene Chervinski"
+git log --pretty=oneline --author="Eu"
+git log --pretty=format:"%h - %s : %ad [ %an ]" --date=short
