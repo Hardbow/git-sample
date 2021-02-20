@@ -1,1 +1,3 @@
 This changes were made on the master branch
+this strings was added on the dev branch
+and we fixed the merge conflict
