@@ -1,3 +1,3 @@
-It's file for studing Git
+It's file for studing Git 12342134
 and we add new line
 third line was added
